@@ -2,7 +2,7 @@
 
 Real Estate CRM is an innovative Customer Relationship Management (CRM) solution designed exclusively for Real Estate Agents. Streamline your workflow, enhance client interactions, and boost your business with our feature-packed CRM.
 
-## **Explore our repository to discover**
+## **Features**
 
 1. Intuitive Interface: A user-friendly dashboard tailored to the needs of Real Estate professionals.
 2. MERN Stack Powered: Built on the robust MERN (MongoDB, Express, ReactJS, Node.js) stack for high performance.
